@@ -26,5 +26,27 @@ https://cdn.jsdelivr.net/gh/southorangezh/libraryNine
 ### CDN 资源列表
 * Axios
 ```
-/0.19.2/axios.min.js
+/0.19.2/axios.js
+```
+
+* Element-ui
+```
+/2.13.2/index.js
+/2.13.2/theme-nine/index.css
+/2.13.2/theme-chalk/index.css
+```
+
+* Normalize
+```
+/8.0.1/normalize.js
+```
+
+* Qs
+```
+/6.9.4/qs.js
+```
+
+* Vue
+```
+/2.6.11/dist/vue.js
 ```
