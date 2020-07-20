@@ -4,6 +4,12 @@
 
 ---
 
+### 资源信息&统计
+
+```
+https://cdn.jsdelivr.net/gh/southorangezh/libraryNine/
+https://www.jsdelivr.com/package/gh/southorangezh/libraryNine
+```
 
 #### 基础链接 Base link
 
