@@ -17,10 +17,10 @@ https://www.jsdelivr.com/package/gh/southorangezh/libraryNine
 https://cdn.jsdelivr.net/gh/southorangezh/libraryNine
 ```
 
-#### 版本  **1.0**
+#### 版本  **1.2**
 
 ```
-@1.1
+@1.2
 ```
 ---
 ### CDN 资源列表
@@ -49,4 +49,9 @@ https://cdn.jsdelivr.net/gh/southorangezh/libraryNine
 * Vue
 ```
 /2.6.11/dist/vue.js
+```
+
+* ApexCharts
+```
+/3.19.3/apexcharts.js
 ```
