@@ -17,10 +17,10 @@ https://www.jsdelivr.com/package/gh/southorangezh/libraryNine
 https://cdn.jsdelivr.net/gh/southorangezh/libraryNine
 ```
 
-#### 版本  **1.2**
+#### 版本  **1.3**
 
 ```
-@1.2
+@1.3
 ```
 ---
 ### CDN 资源列表
@@ -54,4 +54,9 @@ https://cdn.jsdelivr.net/gh/southorangezh/libraryNine
 * ApexCharts
 ```
 /3.19.3/apexcharts.js
+```
+
+* QRCode
+```
+/qrcode.js
 ```
