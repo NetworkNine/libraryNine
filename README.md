@@ -7,14 +7,14 @@
 ### 资源信息&统计
 
 ```
-https://cdn.jsdelivr.net/gh/southorangezh/libraryNine/
-https://www.jsdelivr.com/package/gh/southorangezh/libraryNine
+https://cdn.jsdelivr.net/gh/NetworkNine/libraryNine/
+https://www.jsdelivr.com/package/gh/NetworkNine/libraryNine
 ```
 
 #### 基础链接 Base link
 
 ```
-https://cdn.jsdelivr.net/gh/southorangezh/libraryNine
+https://cdn.jsdelivr.net/gh/NetworkNine/libraryNine
 ```
 
 #### 版本  **1.3**
